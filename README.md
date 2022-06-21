@@ -22,4 +22,5 @@ I have not written code for
 - input validations (0 and 1 can be accepted though they should not be)
 - error handling on the front-end 
 - I was not able to meet the requirement for generating an accurate list of phonewords
+- I wasn't sure how the program is supposed to respond to cases where the same digit is entered multiple times e.g 333
 
